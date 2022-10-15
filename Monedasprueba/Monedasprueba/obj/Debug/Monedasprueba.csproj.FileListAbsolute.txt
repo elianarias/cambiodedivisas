@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Monedasprueba\Monedasprueba\bin\Debug\Monedasprueba.exe
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Monedasprueba\Monedasprueba\bin\Debug\Monedasprueba.pdb
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Monedasprueba\Monedasprueba\obj\Debug\Monedasprueba.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Monedasprueba\Monedasprueba\obj\Debug\Monedasprueba.MainForm.resources
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Monedasprueba\Monedasprueba\obj\Debug\Monedasprueba.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Monedasprueba\Monedasprueba\obj\Debug\Monedasprueba.exe
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Monedasprueba\Monedasprueba\obj\Debug\Monedasprueba.pdb
